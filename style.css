@@ -30,3 +30,9 @@ h2, h3 {
     background-color: rgb(252, 255, 216);
     width: fit-content;
 }
+
+img {
+    height: 310px; 
+    width: 350px;
+    border: 8px solid burlywood;
+}
